@@ -1,0 +1,51 @@
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPliku\DaneZPliku\bin\Debug\DaneZPliku.exe.config
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPliku\DaneZPliku\obj\Debug\DaneZPliku.exe
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPliku\DaneZPliku\obj\Debug\DaneZPliku.pdb
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPliku\DaneZPliku\bin\Debug\DaneZPliku.exe
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPliku\DaneZPliku\bin\Debug\DaneZPliku.pdb
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPliku\DaneZPliku\obj\Debug\DaneZPlikuOkienko.csprojResolveAssemblyReference.cache
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPliku\DaneZPliku\obj\Debug\DaneZPlikuOkienko.DaneZPliku.resources
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPliku\DaneZPliku\obj\Debug\DaneZPliku.Properties.Resources.resources
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPliku\DaneZPliku\obj\Debug\DaneZPlikuOkienko.csproj.GenerateResource.Cache
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuOkienko\DaneZPliku\bin\Debug\DaneZPliku.exe.config
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuOkienko\DaneZPliku\obj\Debug\DaneZPliku.exe
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuOkienko\DaneZPliku\obj\Debug\DaneZPliku.pdb
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuOkienko\DaneZPliku\bin\Debug\DaneZPliku.exe
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuOkienko\DaneZPliku\bin\Debug\DaneZPliku.pdb
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuOkienko\DaneZPliku\obj\Debug\DaneZPlikuOkienko.csprojResolveAssemblyReference.cache
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuOkienko\DaneZPliku\obj\Debug\DaneZPlikuOkienko.DaneZPliku.resources
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuOkienko\DaneZPliku\obj\Debug\DaneZPliku.Properties.Resources.resources
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPlikuOkienko\DaneZPliku\obj\Debug\DaneZPlikuOkienko.csproj.GenerateResource.Cache
+C:\Users\JacekL\Dysk Google\UWM\Sztuczna Inteligencja\Programy SI\CW2\DaneZPlikuOkienko\DaneZPliku\bin\Debug\DaneZPliku.exe.config
+C:\Users\JacekL\Dysk Google\UWM\Sztuczna Inteligencja\Programy SI\CW2\DaneZPlikuOkienko\DaneZPliku\obj\Debug\DaneZPliku.exe
+C:\Users\JacekL\Dysk Google\UWM\Sztuczna Inteligencja\Programy SI\CW2\DaneZPlikuOkienko\DaneZPliku\obj\Debug\DaneZPliku.pdb
+E:\SI\II\lem2\starter-Csharp\DaneZPlikuOkienko\DaneZPliku\bin\Debug\DaneZPliku.exe.config
+E:\SI\II\lem2\starter-Csharp\DaneZPlikuOkienko\DaneZPliku\obj\Debug\DaneZPliku.exe
+E:\SI\II\lem2\starter-Csharp\DaneZPlikuOkienko\DaneZPliku\obj\Debug\DaneZPliku.pdb
+E:\SI\II\lem2\starter-Csharp\DaneZPlikuOkienko\DaneZPliku\bin\Debug\DaneZPliku.exe
+E:\SI\II\lem2\starter-Csharp\DaneZPlikuOkienko\DaneZPliku\bin\Debug\DaneZPliku.pdb
+E:\SI\II\lem2\starter-Csharp\DaneZPlikuOkienko\DaneZPliku\obj\Debug\DaneZPlikuOkienko.csprojResolveAssemblyReference.cache
+E:\SI\II\lem2\starter-Csharp\DaneZPlikuOkienko\DaneZPliku\obj\Debug\DaneZPlikuOkienko.DaneZPliku.resources
+E:\SI\II\lem2\starter-Csharp\DaneZPlikuOkienko\DaneZPliku\obj\Debug\DaneZPliku.Properties.Resources.resources
+E:\SI\II\lem2\starter-Csharp\DaneZPlikuOkienko\DaneZPliku\obj\Debug\DaneZPlikuOkienko.csproj.GenerateResource.Cache
+E:\SI\II\lem2\starter-Csharp\DaneZPlikuOkienko\DaneZPliku\bin\Debug\KwCombinatorics.dll
+E:\SI\II\lem2\starter-Csharp\Szczpanski_Maksymilian_LEM2\DaneZPliku\bin\Debug\DaneZPliku.exe.config
+E:\SI\II\lem2\starter-Csharp\Szczpanski_Maksymilian_LEM2\DaneZPliku\obj\Debug\DaneZPliku.exe
+E:\SI\II\lem2\starter-Csharp\Szczpanski_Maksymilian_LEM2\DaneZPliku\obj\Debug\DaneZPliku.pdb
+E:\SI\II\lem2\starter-Csharp\Szczpanski_Maksymilian_LEM2\DaneZPliku\bin\Debug\DaneZPliku.exe
+E:\SI\II\lem2\starter-Csharp\Szczpanski_Maksymilian_LEM2\DaneZPliku\bin\Debug\DaneZPliku.pdb
+E:\SI\II\lem2\starter-Csharp\Szczpanski_Maksymilian_LEM2\DaneZPliku\bin\Debug\KwCombinatorics.dll
+E:\SI\II\lem2\starter-Csharp\Szczpanski_Maksymilian_LEM2\DaneZPliku\obj\Debug\DaneZPlikuOkienko.csprojResolveAssemblyReference.cache
+E:\SI\II\lem2\starter-Csharp\Szczpanski_Maksymilian_LEM2\DaneZPliku\obj\Debug\DaneZPlikuOkienko.DaneZPliku.resources
+E:\SI\II\lem2\starter-Csharp\Szczpanski_Maksymilian_LEM2\DaneZPliku\obj\Debug\DaneZPliku.Properties.Resources.resources
+E:\SI\II\lem2\starter-Csharp\Szczpanski_Maksymilian_LEM2\DaneZPliku\obj\Debug\DaneZPlikuOkienko.csproj.GenerateResource.Cache
+E:\SI\II\programy_do_oddania_16-05-2017\Szczepanski_Maksymilian_LEM2\DaneZPliku\bin\Debug\DaneZPliku.exe.config
+E:\SI\II\programy_do_oddania_16-05-2017\Szczepanski_Maksymilian_LEM2\DaneZPliku\obj\Debug\DaneZPliku.pdb
+E:\SI\II\programy_do_oddania_16-05-2017\Szczepanski_Maksymilian_LEM2\DaneZPliku\bin\Debug\DaneZPliku.exe
+E:\SI\II\programy_do_oddania_16-05-2017\Szczepanski_Maksymilian_LEM2\DaneZPliku\bin\Debug\DaneZPliku.pdb
+E:\SI\II\programy_do_oddania_16-05-2017\Szczepanski_Maksymilian_LEM2\DaneZPliku\bin\Debug\KwCombinatorics.dll
+E:\SI\II\programy_do_oddania_16-05-2017\Szczepanski_Maksymilian_LEM2\DaneZPliku\obj\Debug\DaneZPlikuOkienko.csprojResolveAssemblyReference.cache
+E:\SI\II\programy_do_oddania_16-05-2017\Szczepanski_Maksymilian_LEM2\DaneZPliku\obj\Debug\DaneZPlikuOkienko.DaneZPliku.resources
+E:\SI\II\programy_do_oddania_16-05-2017\Szczepanski_Maksymilian_LEM2\DaneZPliku\obj\Debug\DaneZPliku.Properties.Resources.resources
+E:\SI\II\programy_do_oddania_16-05-2017\Szczepanski_Maksymilian_LEM2\DaneZPliku\obj\Debug\DaneZPlikuOkienko.csproj.GenerateResource.Cache
+E:\SI\II\programy_do_oddania_16-05-2017\Szczepanski_Maksymilian_LEM2\DaneZPliku\obj\Debug\DaneZPliku.exe

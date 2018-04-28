@@ -1,0 +1,3 @@
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPliku\DaneZPliku\bin\Debug\DaneZPliku.exe.config
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPliku\DaneZPliku\obj\Debug\DaneZPliku.exe
+C:\Users\JacekL\Documents\Visual Studio 2015\Projects\DaneZPliku\DaneZPliku\obj\Debug\DaneZPliku.pdb
